@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+pyPdf
+pyMupdf
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
+streamlit
+beautifulsoup4
+cachetools
+sqlalchemy
+psycopg2-binary
+mysql-connector-python

@@ -1,0 +1,2 @@
+This is the content of sample text file 2.  It has multiple lines.
+    Here is another line in sample text file 2.
